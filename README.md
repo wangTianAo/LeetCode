@@ -1,1 +1,2 @@
 # LeetCode
+记录一些在LeetCode上做算法题遇到的问题和解决方案
