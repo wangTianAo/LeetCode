@@ -1,0 +1,3 @@
+Dynamic programming
+
+nums[i] = Math.max(nums[i],nums[i-1]+nums[i])
