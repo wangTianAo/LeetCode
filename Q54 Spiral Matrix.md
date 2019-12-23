@@ -1,6 +1,7 @@
 //从左往右，从上往下，从右往左，从下往上的顺序
 //每次for结束要判断是否结束
-//
+//2019.12.23
+```java
         int left = 0,top = 0,right=n-1,bottom = m-1;
         while(result.size()!=totalNumber){
             for(i = left;i<=right;++i){
@@ -36,3 +37,4 @@
             if(Finish(result,totalNumber)){
                 break;
             }
+```
